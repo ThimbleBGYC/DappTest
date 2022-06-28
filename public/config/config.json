@@ -1,5 +1,5 @@
 {
-  "CONTRACT_ADDRESS": "0x29e26a5eFaBEDe6e85F832aBDB6A7b5d05bb19e8",
+  "CONTRACT_ADDRESS": "0x29e26a5efabede6e85f832abdb6a7b5d05bb19e8",
   "SCAN_LINK": "https://etherscan.io/address/0x29e26a5efabede6e85f832abdb6a7b5d05bb19e8",
   "NETWORK": {
     "NAME": "Ethereum",
@@ -11,8 +11,8 @@
   "MAX_SUPPLY": 2000,
   "WEI_COST": 10000000000000000,
   "DISPLAY_COST": 0.01,
-  "GAS_LIMIT": 285000,
+  "GAS_LIMIT": 300000,
   "MARKETPLACE": "Opensea",
-  "MARKETPLACE_LINK": "https://opensea.io/collection/board-game-yawn-club",
+  "MARKETPLACE_LINK": "https://opensea.io/collection/boardgameyawnclub",
   "SHOW_BACKGROUND": true
 }
