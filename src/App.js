@@ -238,8 +238,8 @@ function App() {
         </StyledImg3>
         </StyledLink>
       </s.Container>
+        <StyledLink target=["_blank"] href="https://boardgameyawnclub.xyz/">
         <StyledLogo alt={"logo"} src={"/config/images/logo.png"} />
-          href="https://boardgameyawnclub.xyz/"
         <s.SpacerLarge />
         <StyledLogo alt={"logo"} src={"/config/images/MINTING DAPP.png"} />
         <ResponsiveWrapper flex={1} style={{ padding: 24 }} test>
